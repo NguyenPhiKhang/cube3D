@@ -1,4 +1,1 @@
-<video controls width="250">
-    <source src="./record/video.mp4"
-            type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/45101536/140742361-a5760ca1-59bf-4fe0-b030-e2e315ad54da.mp4
